@@ -1,0 +1,15 @@
+export default function Events() {
+  return (
+    <div className="min-h-screen bg-[#F5F7F2] p-6">
+      <h1 className="text-3xl font-bold text-[#4D7C3A] mb-6">
+        Events
+      </h1>
+
+      <div className="bg-white rounded-xl shadow-md p-6">
+        <p className="text-gray-600">
+          Upcoming IIM Udaipur events will appear here
+        </p>
+      </div>
+    </div>
+  )
+}
