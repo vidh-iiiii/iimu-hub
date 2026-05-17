@@ -7,7 +7,7 @@ export default function Directory() {
 
       <div className="bg-white rounded-xl shadow-md p-6">
         <p className="text-gray-600">
-          Search students by batch, company, hometown, committee, etc.
+          Search students by batch, company, hometown and committee
         </p>
       </div>
     </div>
